@@ -37,7 +37,7 @@ const App = () => {
   return (
     <div className="App">
       <h1 className="app-title">Hello Monsters-Docker is in outside table</h1>
-      <h1 className="app-title">Docker Repo is in US-EAST-2-changed task definition file path to ./ and docker -f</h1>
+      <h1 className="app-title">Task definition file path to ./ and docker build -t monsteraws:1.0.0-dev ./teachermonsters/monsters/</h1>
       <h2 className="app-title">Title as you type: {title}</h2>
 
       <SearchBox
