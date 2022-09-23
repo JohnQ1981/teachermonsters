@@ -1,6 +1,6 @@
 FROM node:16.17.0
 
-WORKDIR /code
+WORKDIR /monsters
 
 COPY package.json package.json
 #COPY package-lock.json package-lock.json

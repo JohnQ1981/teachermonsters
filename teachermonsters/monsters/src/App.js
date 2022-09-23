@@ -36,7 +36,7 @@ const App = () => {
 
   return (
     <div className="App">
-      <h1 className="app-title">Hello Monsters-Docker is in outside table</h1>
+      <h1 className="app-title">Hello Monsters-Docker is inside the monsters folder</h1>
       <h1 className="app-title">Updated container name in aws.yml</h1>
       <h2 className="app-title">Title as you type: {title}</h2>
 
